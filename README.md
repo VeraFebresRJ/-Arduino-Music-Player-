@@ -1,4 +1,4 @@
-**ESP32 MUSIC PLAYER**
+**🎵 ESP32 MUSIC PLAYER 🎵**
 
 ***Componentes usados en el proyecto:***
 
@@ -12,7 +12,7 @@
 
 🔌 Conexiones [5].
 
-A continuación, facilito el diagrama de las conexiones para facilitar el armado del circuito.
+A continuación, muestro el diagrama de las conexiones para facilitar el armado del circuito, pueden acceder a el mediante el siguiente enlace.
 
 Diagrama del circuito:
 https://wokwi.com/projects/454602059339533313
