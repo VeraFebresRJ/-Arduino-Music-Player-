@@ -1,6 +1,6 @@
 **ESP32 MUSIC PLAYER**
 
-***Componentes usados en el proyecto.***
+***Componentes usados en el proyecto:***
 
 📶 ESP32 [1].
 
