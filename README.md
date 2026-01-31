@@ -1,7 +1,6 @@
 **🎵 ESP32 MUSIC PLAYER 🎵**
 
-***Componentes usados en el proyecto:***
-
+***Componentes usados en el proyecto.***
 📶 ESP32 [1].
 
 ⚡️ Resistencia [1]. De 1 kΩ.
@@ -12,6 +11,6 @@
 
 🔌 Conexiones [5].
 
-***Diagrama del circuito:***
+***Diagrama del circuito.***
 A continuación, muestro el diagrama de las conexiones para facilitar el armado del circuito, pueden acceder a el mediante el siguiente enlace:
 https://wokwi.com/projects/454602059339533313
