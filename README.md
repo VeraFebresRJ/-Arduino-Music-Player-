@@ -8,7 +8,7 @@
 💡 LED 04. De color verde. Indicador de instanciación/reposo.
 
 💡 LED 18. De color rojo. Indicador de ejecución de canciones.
-🔊 Buzzer pasivo (piezo o zumbador). 
+🔊 Buzzer pasivo (piezo o zumbador).
 
 🔌 Conexiones [5].
 
