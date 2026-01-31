@@ -1,6 +1,7 @@
-     ~ ESP32 MUSIC PLAYER ~
+     **ESP32 MUSIC PLAYER**
 
-Componentes que usé en el proyecto.
+*Componentes que usé en el proyecto.*
+
 📶 ESP32 [1].
 
 ⚡️ Resistencia [1]. De 1 kΩ.
