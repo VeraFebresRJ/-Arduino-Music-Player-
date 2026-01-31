@@ -12,7 +12,6 @@
 
 🔌 Conexiones [5].
 
+***Diagrama del circuito:***
 A continuación, muestro el diagrama de las conexiones para facilitar el armado del circuito, pueden acceder a el mediante el siguiente enlace.
-
-Diagrama del circuito:
 https://wokwi.com/projects/454602059339533313
