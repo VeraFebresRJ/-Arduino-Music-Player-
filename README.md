@@ -1,4 +1,4 @@
-     **ESP32 MUSIC PLAYER**
+     ESP32 MUSIC PLAYER
 
 *Componentes que usé en el proyecto.*
 
